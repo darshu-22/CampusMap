@@ -1,0 +1,288 @@
+{
+  "1.jpeg": [
+    "ground floor",
+    "G17"
+  ],
+  "1Fdeadend.jpeg": [
+    "Analog circuits lab (102)",
+    "117",
+    "118",
+    "101",
+    "119"
+  ],
+  "2.jpeg": "G17",
+  "2F2L.jpeg": "2nd Floor Corridor",
+  "2FLEhub": [
+    "2nd Floor LE building",
+    "LE-21",
+    "LE-22",
+    "LE-23",
+    "LE-24",
+    "LE-25"
+  ],
+  "2Fmidpoint.jpeg": [
+    "2nd Floor Central Midpoint",
+    "PHYSICS LAB (212)",
+    "CHEMISTRY LAB (210)",
+    "BASIC ELECTROINICS LAB (211)"
+  ],
+  "2Fppathway.jpeg": [
+    "2nd Floor Pathway",
+    "206"
+  ],
+  "2Fstair1.jpeg": "2nd Floor Staircase 1",
+  "2Fstair3.jpeg": [
+    "2nd Floor Staircase 3",
+    "209"
+  ],
+  "3.jpeg": [
+    "G14",
+    "G13",
+    "G14",
+    "G15"
+  ],
+  "3F2L.jpeg": [
+    "3rd Floor Corridor",
+    "307"
+  ],
+  "3FentraNCE.jpeg": [
+    "COE advanced cloud and data engineering lab (326)",
+    "325"
+  ],
+  "3FLEhub.jpeg": [
+    "3rd Floor LE Hub",
+    "LE-31",
+    "LE-32",
+    "LE-33",
+    "LE-34",
+    "LE-35"
+  ],
+  "3Fmidpoint.jpeg": [
+    "3rd Floor corridoor",
+    "CSE HOD (309)",
+    "313",
+    "314",
+    "312"
+  ],
+  "3Fpathway.jpeg": [
+    "324",
+    "323",
+    "322",
+    "326",
+    "325"
+  ],
+  "3Fstair1.jpeg": "3rd Floor entrance",
+  "3Fstair1pWLg4.jpeg": "3rd floor entrance",
+  "3Fstair3.jpeg": "3rd Floor Staircase 3",
+  "3ndfloorentrance.jpeg": [
+    "2nd floor teachers Cubicals",
+    "Mech HOD (221)",
+    "Civil HOD (201)"
+  ],
+  "4.jpeg": [
+    "1st FLOOR (103)",
+    "ECE HOD (104)",
+    "ECE HOD",
+    "104"
+  ],
+  "4F2L.jpeg": [
+    "4th Floor Corridor",
+    "staff room (407)"
+  ],
+  "4FLEhub.jpeg": [
+    "4th Floor LE building",
+    "LE-41",
+    "LE-45",
+    "LE-43",
+    "LE-42",
+    "LE-44"
+  ],
+  "4Fmidpoint.jpeg": [
+    "4th Floor Central corridor",
+    "ISE HOD (409)",
+    "412",
+    "413",
+    "414"
+  ],
+  "4Fstair3.jpeg": [
+    "4th Floor Staircase 3",
+    "staff room (408)"
+  ],
+  "4thfloorabup.jpeg": [
+    "4th floor MBA entrance",
+    "422"
+  ],
+  "5.jpeg": "116",
+  "5F2L.jpeg": [
+    "5th Floor Corridor",
+    "Staff Room (505)"
+  ],
+  "5FLEhub.jpeg": [
+    "5th Floor LE Hub",
+    "LE-51",
+    "LE-52",
+    "LE-53",
+    "LE-54",
+    "LE-55"
+  ],
+  "5Fmidpoint.jpeg": [
+    "5th Floor Central Midpoint",
+    "511",
+    "512",
+    "513",
+    "510"
+  ],
+  "5Fpathway.jpeg": [
+    "5th Floor Main Pathway",
+    "525",
+    "526"
+  ],
+  "5Fstair3.jpeg": "5th Floor Staircase 3",
+  "6.jpeg": [
+    "114",
+    "115",
+    "116"
+  ],
+  "6thfloor.jpeg": [
+    "6th Floor Entrnace",
+    "601",
+    "602",
+    "603",
+    "604",
+    "605",
+    "606"
+  ],
+  "7.jpeg": "2nd FLOOR",
+  "8.jpeg": "217",
+  "9.jpeg": [
+    "DIGITAL SIGNAL PROCESSING LAB (215)",
+    "216",
+    "214",
+    "213"
+  ],
+  "10.jpeg": [
+    "3rd FLOOR (306)",
+    "306"
+  ],
+  "11.jpeg": [
+    "320",
+    "319",
+    "317"
+  ],
+  "12.jpeg": [
+    "318",
+    "316",
+    "315"
+  ],
+  "13.jpeg": "4th FLOOR",
+  "14.jpeg": [
+    "421",
+    "420",
+    "419"
+  ],
+  "15.jpeg": [
+    "418",
+    "417",
+    "416",
+    "415"
+  ],
+  "16.jpeg": "5th FLOOR",
+  "17.jpeg": [
+    "519",
+    "520",
+    "518"
+  ],
+  "18.jpeg": [
+    "517",
+    "516",
+    "515",
+    "514"
+  ],
+  "adminblock.jpeg": "Admin Block Exterior",
+  "adminblockinside.jpeg": [
+    "Admin Block Lobby",
+    "Admin Lobby",
+    "Admin Block",
+    "Administration Lobby",
+    "Admin Office",
+    "Chairman's Office"
+  ],
+  "admissions.jpeg": "Admission Office Entrance",
+  "admissionstair1.jpeg": "Admission Staircase 1",
+  "au.jpeg": "AU Building Pathway",
+  "au2.jpeg": "Temple",
+  "BF2L.jpeg": "Basement Level Corridor",
+  "BFstair3.jpeg": "Basement Level Staircase to ground floor and SWO",
+  "boyshostel.jpeg": "Boys Hostel Entrance",
+  "canteenentrance.jpeg": "Canteen Entrance",
+  "examsectionhub.jpeg": "Exam Section Basement",
+  "feecounter.jpeg": "Fee Counter & Accounts Section",
+  "FF2L.jpeg": "1st Floor Corridor",
+  "FFLEhub.jpeg": [
+    "1st Floor LE building",
+    "RL104(A15)",
+    "RL105(A14)",
+    "RL106(A13)",
+    "RL112(COE CIVIL)",
+    "RL107(A12)",
+    "RL111(COE)",
+    "RL108(A11)"
+  ],
+  "FFmidpoint.jpeg": [
+    "1st Floor corridor point 2",
+    "107"
+  ],
+  "FFstair3.jpeg": "1st Floor Staircase 3",
+  "GF2L.jpeg": "Ground Floor Corridor",
+  "GFLEhub.jpeg": [
+    "Ground Floor LE building",
+    "RLG01",
+    "RLG02(A5)",
+    "RLG03(A4)",
+    "RLG04(A3)",
+    "RLG05(A2)",
+    "RLG06(A1)"
+  ],
+  "GFstair3.jpeg": [
+    "Ground Floor Staircase 3",
+    "CDC OFFICE"
+  ],
+  "glassbuildingwalkingpath.jpeg": "Glass Building Walkway",
+  "machinelabinterior.jpeg": "Machine Shop Lab Interior",
+  "machineshoplab.jpeg": "Machine Shop Lab",
+  "maingate.jpeg": "Main Gate",
+  "MBAcontinue.jpeg": "MBA Block Corridor",
+  "MBAdiscussionroom.jpeg": [
+    "MBA Discussion Room",
+    "425",
+    "426",
+    "404"
+  ],
+  "mbastair1.jpeg": "MBA Block Staircase 1",
+  "MCA5.jpeg": "MCA 5th Floor Lab",
+  "mess.jpeg": "College Mess / Dining Hall",
+  "naveenshop.jpeg": "Canteen",
+  "NSOJpoint.jpeg": "NSOJ room",
+  "outsideclg.jpeg": "College Exterior",
+  "outsr.jpeg": "Outside Sports Room",
+  "praking.jpeg": "Campus Parking Area",
+  "principal.jpeg": [
+    "Principal Office Corridor",
+    "Principal's PA",
+    "HR Office",
+    "Board Room"
+  ],
+  "seminarhall.jpeg": "Seminar Hall Interior",
+  "seminarhallentrance.jpeg": "Seminar Hall Entrance",
+  "sportsroom.jpeg": "Sports Room Interior",
+  "stair1tomca.jpeg": "Staircase 1 to MCA Department",
+  "staircase2.jpeg": "Central Staircase 2",
+  "SWO.jpeg": [
+    "Student Welfare Office",
+    "SWO",
+    "Student Welfare",
+    "Student Welfare Department"
+  ],
+  "VYOMlab1.jpeg": "VYOM Research Lab 1",
+  "VYOMlab2.jpeg": "VYOM Research Lab 2"
+}

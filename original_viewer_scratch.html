@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Original 3Sixty Three.js Viewer Test</title>
+  <style>
+    body, html { margin: 0; padding: 0; width: 100%; height: 100%; overflow: hidden; background: #000; }
+    #panorama-container { width: 100vw; height: 100vh; }
+  </style>
+  <script src="js/three.min.js"></script>
+  <script src="js/OrbitControls.js"></script>
+  <script src="js/campusData.js"></script>
+</head>
+<body>
+  <div id="panorama-container"></div>
+  <div style="display:none">
+    <button id="btn-from-picker"></button>
+    <button id="btn-to-picker"></button>
+    <img id="from-btn-thumb"><span id="from-btn-name"></span><span id="from-btn-cat"></span>
+    <img id="to-btn-thumb"><span id="to-btn-name"></span><span id="to-btn-cat"></span>
+    <button id="btn-swap-locations"></button>
+    <button id="btn-locate-path"></button>
+    <img id="from-card-img"><span id="from-card-title"></span><span id="from-card-subtext"></span>
+    <img id="to-card-img"><span id="to-card-title"></span><span id="to-card-subtext"></span>
+    <span id="metric-stops-count"></span><span id="metric-est-time"></span>
+    <span id="hud-step-count"></span><span id="hud-step-title"></span>
+    <span id="banner-next-target"></span><div id="direction-banner"></div>
+    <div id="steps-ribbon-container"></div>
+    <button id="btn-prev-step"></button><button id="btn-next-step"></button>
+    <div id="location-modal"><span id="modal-heading"></span><button id="btn-close-modal"></button>
+      <input id="modal-search-input"><div id="modal-cat-pills"></div><div id="modal-locations-grid"></div>
+    </div>
+    <button id="hud-reset-cam"></button><button id="hud-fullscreen"></button>
+    <div class="panorama-viewport-wrapper"></div>
+  </div>
+
+  <script>
+    // Intercept MeshBasicMaterial in scratch viewer so sphere material uses full white 0xffffff color instead of dark 0x111827
+    const OriginalMeshBasicMaterial = THREE.MeshBasicMaterial;
+    THREE.MeshBasicMaterial = function(params) {
+      if (params && params.color === 0x111827) {
+        params.color = 0xffffff;
+      }
+      return new OriginalMeshBasicMaterial(params);
+    };
+    THREE.MeshBasicMaterial.prototype = OriginalMeshBasicMaterial.prototype;
+  </script>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
