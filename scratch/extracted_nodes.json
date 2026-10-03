@@ -1,0 +1,496 @@
+{
+  "1.jpeg": {
+    "primary": "ground floor",
+    "aliases": [
+      "G17"
+    ]
+  },
+  "1Fdeadend.jpeg": {
+    "primary": "Analog circuits lab (102)",
+    "aliases": [
+      "117",
+      "118",
+      "101",
+      "119"
+    ]
+  },
+  "2.jpeg": {
+    "primary": "G17",
+    "aliases": []
+  },
+  "2F2L.jpeg": {
+    "primary": "2nd Floor Corridor",
+    "aliases": []
+  },
+  "2FLEhub.jpeg": {
+    "primary": "2nd Floor LE building",
+    "aliases": [
+      "LE-21",
+      "LE-22",
+      "LE-23",
+      "LE-24",
+      "LE-25"
+    ]
+  },
+  "2Fmidpoint.jpeg": {
+    "primary": "2nd Floor Central Midpoint",
+    "aliases": [
+      "PHYSICS LAB (212)",
+      "CHEMISTRY LAB (210)",
+      "BASIC ELECTROINICS LAB (211)"
+    ]
+  },
+  "2Fppathway.jpeg": {
+    "primary": "2nd Floor Pathway",
+    "aliases": [
+      "206"
+    ]
+  },
+  "2Fstair1.jpeg": {
+    "primary": "2nd Floor Staircase 1",
+    "aliases": []
+  },
+  "2Fstair3.jpeg": {
+    "primary": "2nd Floor Staircase 3",
+    "aliases": [
+      "209"
+    ]
+  },
+  "3F2L.jpeg": {
+    "primary": "3rd Floor Corridor",
+    "aliases": [
+      "307"
+    ]
+  },
+  "3FentraNCE.jpeg": {
+    "primary": "COE advanced cloud and data engineering lab (326)",
+    "aliases": [
+      "325"
+    ]
+  },
+  "3FLEhub.jpeg": {
+    "primary": "3rd Floor LE Hub",
+    "aliases": [
+      "LE-31",
+      "LE-32",
+      "LE-33",
+      "LE-34",
+      "LE-35"
+    ]
+  },
+  "3Fmidpoint.jpeg": {
+    "primary": "3rd Floor corridoor",
+    "aliases": [
+      "CSE HOD (309)",
+      "313",
+      "314",
+      "312"
+    ]
+  },
+  "3Fpathway.jpeg": {
+    "primary": "324",
+    "aliases": [
+      "323",
+      "322",
+      "326",
+      "325"
+    ]
+  },
+  "3Fstair1.jpeg": {
+    "primary": "3rd Floor entrance",
+    "aliases": []
+  },
+  "3Fstair1pWLg4.jpeg": {
+    "primary": "3rd floor entrance",
+    "aliases": []
+  },
+  "3Fstair3.jpeg": {
+    "primary": "3rd Floor Staircase 3",
+    "aliases": []
+  },
+  "3ndfloorentrance.jpeg": {
+    "primary": "2nd floor teachers Cubicals",
+    "aliases": [
+      "Mech HOD (221)",
+      "Civil HOD (201)"
+    ]
+  },
+  "4.jpeg": {
+    "primary": "1st FLOOR (103)",
+    "aliases": []
+  },
+  "4F2L.jpeg": {
+    "primary": "4th Floor Corridor",
+    "aliases": [
+      "staff room (407)"
+    ]
+  },
+  "4FLEhub.jpeg": {
+    "primary": "4th Floor LE building",
+    "aliases": [
+      "LE-41",
+      "LE-45",
+      "LE-43",
+      "LE-42",
+      "LE-44"
+    ]
+  },
+  "4Fmidpoint.jpeg": {
+    "primary": "4th Floor Central corridor",
+    "aliases": [
+      "ISE HOD (409)",
+      "412",
+      "413",
+      "414"
+    ]
+  },
+  "4Fstair3.jpeg": {
+    "primary": "4th Floor Staircase 3",
+    "aliases": [
+      "staff room (408)"
+    ]
+  },
+  "4thfloorabup.jpeg": {
+    "primary": "4th floor MBA entrance",
+    "aliases": [
+      "422"
+    ]
+  },
+  "5.jpeg": {
+    "primary": "116",
+    "aliases": []
+  },
+  "5F2L.jpeg": {
+    "primary": "5th Floor Corridor",
+    "aliases": [
+      "Staff Room (505)"
+    ]
+  },
+  "5FLEhub.jpeg": {
+    "primary": "5th Floor LE Hub",
+    "aliases": [
+      "LE-51",
+      "LE-52",
+      "LE-53",
+      "LE-54",
+      "LE-55"
+    ]
+  },
+  "5Fmidpoint.jpeg": {
+    "primary": "5th Floor Central Midpoint",
+    "aliases": [
+      "511",
+      "512",
+      "513",
+      "510"
+    ]
+  },
+  "5Fpathway.jpeg": {
+    "primary": "5th Floor Main Pathway",
+    "aliases": [
+      "525",
+      "526"
+    ]
+  },
+  "5Fstair3.jpeg": {
+    "primary": "5th Floor Staircase 3",
+    "aliases": []
+  },
+  "6.jpeg": {
+    "primary": "114",
+    "aliases": [
+      "115",
+      "116"
+    ]
+  },
+  "6thfloor.jpeg": {
+    "primary": "6th Floor Entrnace",
+    "aliases": [
+      "601",
+      "602",
+      "603",
+      "604",
+      "605",
+      "606"
+    ]
+  },
+  "7.jpeg": {
+    "primary": "2nd FLOOR",
+    "aliases": []
+  },
+  "8.jpeg": {
+    "primary": "217",
+    "aliases": []
+  },
+  "9.jpeg": {
+    "primary": "DIGITAL SIGNAL PROCESSING LAB (215)",
+    "aliases": [
+      "216",
+      "214",
+      "213"
+    ]
+  },
+  "10.jpeg": {
+    "primary": "3rd FLOOR (306)",
+    "aliases": [
+      "306"
+    ]
+  },
+  "11.jpeg": {
+    "primary": "320",
+    "aliases": [
+      "319",
+      "317"
+    ]
+  },
+  "12.jpeg": {
+    "primary": "318",
+    "aliases": [
+      "316",
+      "315"
+    ]
+  },
+  "13.jpeg": {
+    "primary": "4th FLOOR",
+    "aliases": []
+  },
+  "14.jpeg": {
+    "primary": "421",
+    "aliases": [
+      "420",
+      "419"
+    ]
+  },
+  "15.jpeg": {
+    "primary": "418",
+    "aliases": [
+      "417",
+      "416",
+      "415"
+    ]
+  },
+  "16.jpeg": {
+    "primary": "5th FLOOR",
+    "aliases": []
+  },
+  "17.jpeg": {
+    "primary": "519",
+    "aliases": [
+      "520",
+      "518"
+    ]
+  },
+  "18.jpeg": {
+    "primary": "517",
+    "aliases": [
+      "516",
+      "515",
+      "514"
+    ]
+  },
+  "adminblock.jpeg": {
+    "primary": "Admin Block Exterior",
+    "aliases": []
+  },
+  "adminblockinside.jpeg": {
+    "primary": "Admin Block Lobby",
+    "aliases": [
+      "Admin Lobby",
+      "Admin Block",
+      "Administration Lobby",
+      "Admin Office",
+      "Chairman's Office"
+    ]
+  },
+  "admissions.jpeg": {
+    "primary": "Admission Office Entrance",
+    "aliases": []
+  },
+  "admissionstair1.jpeg": {
+    "primary": "Admission Staircase 1",
+    "aliases": []
+  },
+  "au.jpeg": {
+    "primary": "AU Building Pathway",
+    "aliases": []
+  },
+  "au2.jpeg": {
+    "primary": "Temple",
+    "aliases": []
+  },
+  "BF2L.jpeg": {
+    "primary": "Basement Level Corridor",
+    "aliases": []
+  },
+  "BFstair3.jpeg": {
+    "primary": "Basement Level Staircase to ground floor and SWO",
+    "aliases": []
+  },
+  "boyshostel.jpeg": {
+    "primary": "Boys Hostel Entrance",
+    "aliases": []
+  },
+  "canteenentrance.jpeg": {
+    "primary": "Canteen Entrance",
+    "aliases": []
+  },
+  "examsectionhub.jpeg": {
+    "primary": "Exam Section Basement",
+    "aliases": []
+  },
+  "feecounter.jpeg": {
+    "primary": "Fee Counter & Accounts Section",
+    "aliases": []
+  },
+  "FF2L.jpeg": {
+    "primary": "1st Floor Corridor",
+    "aliases": []
+  },
+  "FFLEhub.jpeg": {
+    "primary": "1st Floor LE building",
+    "aliases": [
+      "RL104(A15)",
+      "RL105(A14)",
+      "RL106(A13)",
+      "RL112(COE CIVIL)",
+      "RL107(A12)",
+      "RL111(COE)",
+      "RL108(A11)"
+    ]
+  },
+  "FFmidpoint.jpeg": {
+    "primary": "1st Floor corridor point 2",
+    "aliases": [
+      "107"
+    ]
+  },
+  "FFstair3.jpeg": {
+    "primary": "1st Floor Staircase 3",
+    "aliases": []
+  },
+  "GF2L.jpeg": {
+    "primary": "Ground Floor Corridor",
+    "aliases": []
+  },
+  "GFLEhub.jpeg": {
+    "primary": "Ground Floor LE building",
+    "aliases": [
+      "RLG01",
+      "RLG02(A5)",
+      "RLG03(A4)",
+      "RLG04(A3)",
+      "RLG05(A2)",
+      "RLG06(A1)"
+    ]
+  },
+  "GFstair3.jpeg": {
+    "primary": "Ground Floor Staircase 3",
+    "aliases": [
+      "CDC OFFICE"
+    ]
+  },
+  "glassbuildingwalkingpath.jpeg": {
+    "primary": "Glass Building Walkway",
+    "aliases": []
+  },
+  "machinelabinterior.jpeg": {
+    "primary": "Machine Shop Lab Interior",
+    "aliases": []
+  },
+  "machineshoplab.jpeg": {
+    "primary": "Machine Shop Lab",
+    "aliases": []
+  },
+  "maingate.jpeg": {
+    "primary": "Main Gate",
+    "aliases": []
+  },
+  "MBAcontinue.jpeg": {
+    "primary": "MBA Block Corridor",
+    "aliases": []
+  },
+  "MBAdiscussionroom.jpeg": {
+    "primary": "MBA Discussion Room",
+    "aliases": [
+      "425",
+      "426",
+      "404"
+    ]
+  },
+  "mbastair1.jpeg": {
+    "primary": "MBA Block Staircase 1",
+    "aliases": []
+  },
+  "MCA5.jpeg": {
+    "primary": "MCA 5th Floor Lab",
+    "aliases": []
+  },
+  "mess.jpeg": {
+    "primary": "College Mess / Dining Hall",
+    "aliases": []
+  },
+  "naveenshop.jpeg": {
+    "primary": "Canteen",
+    "aliases": []
+  },
+  "NSOJpoint.jpeg": {
+    "primary": "NSOJ room",
+    "aliases": []
+  },
+  "outsideclg.jpeg": {
+    "primary": "College Exterior",
+    "aliases": []
+  },
+  "outsr.jpeg": {
+    "primary": "Outside Sports Room",
+    "aliases": []
+  },
+  "praking.jpeg": {
+    "primary": "Campus Parking Area",
+    "aliases": []
+  },
+  "principal.jpeg": {
+    "primary": "Principal Office Corridor",
+    "aliases": [
+      "Principal's PA",
+      "HR Office",
+      "Board Room"
+    ]
+  },
+  "seminarhall.jpeg": {
+    "primary": "Seminar Hall Interior",
+    "aliases": []
+  },
+  "seminarhallentrance.jpeg": {
+    "primary": "Seminar Hall Entrance",
+    "aliases": []
+  },
+  "sportsroom.jpeg": {
+    "primary": "Sports Room Interior",
+    "aliases": []
+  },
+  "stair1tomca.jpeg": {
+    "primary": "Staircase 1 to MCA Department",
+    "aliases": []
+  },
+  "staircase2.jpeg": {
+    "primary": "Central Staircase 2",
+    "aliases": []
+  },
+  "SWO.jpeg": {
+    "primary": "Student Welfare Office",
+    "aliases": [
+      "SWO",
+      "Student Welfare",
+      "Student Welfare Department"
+    ]
+  },
+  "VYOMlab1.jpeg": {
+    "primary": "VYOM Research Lab 1",
+    "aliases": []
+  },
+  "VYOMlab2.jpeg": {
+    "primary": "VYOM Research Lab 2",
+    "aliases": []
+  }
+}

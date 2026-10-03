@@ -1,0 +1,2939 @@
+{
+  "title": "Campus Map",
+  "panoramas": [
+    {
+      "panofile": "1.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "nR2UNZ3YvU",
+          "title": "G13-G17",
+          "position": "394.8759248749583,13.1779911816716,-55.7578719726194",
+          "actions": [
+            {
+              "type": 0,
+              "target": "2.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "Y0nfuvctPS",
+          "title": "Stair(2)",
+          "position": "381.895436039366,-101.55063976151295,55.806149734581595",
+          "actions": [
+            {
+              "type": 0,
+              "target": "staircase2.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "helsmharr8",
+          "title": "to sw(1)",
+          "position": "-373.96704698939845,61.36276599422621,-126.90507538774594",
+          "actions": [
+            {
+              "type": 0,
+              "target": "SWO.jpeg"
+            }
+          ],
+          "icon": "chevronright.png"
+        },
+        {
+          "hotspotid": "ANZNYRLUdj",
+          "title": "toGF2L",
+          "position": "-331.5275645606659,-43.74991677763495,217.58810639751295",
+          "actions": [
+            {
+              "type": 0,
+              "target": "GF2L.jpeg"
+            }
+          ],
+          "icon": "chevronleft.png"
+        },
+        {
+          "hotspotid": "HKIzFysj4T",
+          "title": "toExamsection",
+          "position": "-225.5356113538411,-53.98029043272082,-324.99466203184346",
+          "actions": [
+            {
+              "type": 0,
+              "target": "examsectionhub.jpeg"
+            }
+          ],
+          "icon": "arrowright.png"
+        }
+      ]
+    },
+    {
+      "panofile": "2.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "WxWtHbNyAx",
+          "title": "G13-G17(1)",
+          "position": "-392.3858972351201,-72.69281995720425,9.721545076211898",
+          "actions": [
+            {
+              "type": 0,
+              "target": "3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "4Bncu8sOgy",
+          "title": "TO B(1)",
+          "position": "327.8324377784464,-226.36296568728415,-28.09097771909734",
+          "actions": [
+            {
+              "type": 0,
+              "target": "1.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "9bDXyYLb9R",
+          "title": "TO 1F",
+          "position": "54.63241803766512,-34.38186066232738,-394.0254590876731",
+          "actions": [
+            {
+              "type": 0,
+              "target": "4.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "3.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "LXYx6hpo1d",
+          "title": "TO B",
+          "position": "385.50208964142627,-101.81194460626894,16.665992857086273",
+          "actions": [
+            {
+              "type": 0,
+              "target": "2.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "4.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "h6xb6ZCVOY",
+          "title": "TO GF",
+          "position": "344.8295645172906,-170.7518037497794,106.99543839093408",
+          "actions": [
+            {
+              "type": 0,
+              "target": "2.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "axrTvnMbGq",
+          "title": "TO 1F(1)",
+          "position": "391.59371629018653,-61.238540890916575,-49.9676371425923",
+          "actions": [
+            {
+              "type": 0,
+              "target": "5.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "i7ty8CPt4O",
+          "title": "to 1F deadend",
+          "position": "-359.759855584918,-42.888405686048124,-167.76605003180657",
+          "actions": [
+            {
+              "type": 0,
+              "target": "1Fdeadend.jpeg"
+            }
+          ],
+          "icon": "chevronright.png"
+        },
+        {
+          "hotspotid": "5W8ar1VCoK",
+          "title": "toFF2L",
+          "position": "-361.1269699771673,-50.084837434630465,163.30875752937823",
+          "actions": [
+            {
+              "type": 0,
+              "target": "FF2L.jpeg"
+            }
+          ],
+          "icon": "chevronleft.png"
+        }
+      ]
+    },
+    {
+      "panofile": "5.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "do8C1kKlOh",
+          "title": "112-117",
+          "position": "-386.5216419328261,-98.48829658709252,15.518320904114674",
+          "actions": [
+            {
+              "type": 0,
+              "target": "6.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "NdNVNsOGvm",
+          "title": "TO 1F(2)",
+          "position": "19.977073432926204,-255.06937125576468,-306.67112084557004",
+          "actions": [
+            {
+              "type": 0,
+              "target": "4.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "AlObT1aLY0",
+          "title": "TO 2F",
+          "position": "-262.3508156020001,-131.39368832818502,-270.59483473450575",
+          "actions": [
+            {
+              "type": 0,
+              "target": "7.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "6.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "UzHauvuJP7",
+          "title": "112-117(1)",
+          "position": "379.6289841208554,-121.71395212655524,-22.55587150375665",
+          "actions": [
+            {
+              "type": 0,
+              "target": "5.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "7.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "KCT0H6SyfW",
+          "title": "TO 1F3",
+          "position": "349.85351019685925,-164.6489624353752,98.85271895670691",
+          "actions": [
+            {
+              "type": 0,
+              "target": "5.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "1Pn8pFhIOP",
+          "title": "TO 2F(1)",
+          "position": "392.8755961942997,-52.81210478755028,-48.0022591156408",
+          "actions": [
+            {
+              "type": 0,
+              "target": "8.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "xx4oXI0d2z",
+          "title": "to 2F pathway",
+          "position": "-362.8084842001534,-33.053711455539705,-164.55999952103718",
+          "actions": [
+            {
+              "type": 0,
+              "target": "2Fppathway.jpeg"
+            }
+          ],
+          "icon": "chevronright.png"
+        },
+        {
+          "hotspotid": "0oEzF5Xde2",
+          "title": "to2F2L",
+          "position": "-363.5446941780947,-66.32118908190927,151.4113448833945",
+          "actions": [
+            {
+              "type": 0,
+              "target": "2F2L.jpeg"
+            }
+          ],
+          "icon": "chevronleft.png"
+        }
+      ]
+    },
+    {
+      "panofile": "8.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "EGSnNszRUq",
+          "title": "TO 213-217",
+          "position": "-391.3164440756957,-73.90580691910043,24.85384304510681",
+          "actions": [
+            {
+              "type": 0,
+              "target": "9.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "RiMqbUcSyZ",
+          "title": "TO 2F(2)",
+          "position": "25.860073957747627,-262.0738242264233,-300.5847066254176",
+          "actions": [
+            {
+              "type": 0,
+              "target": "7.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "oRe0c1XU2A",
+          "title": "TO 3F",
+          "position": "-281.5013482645186,-148.6254327801556,-241.18753560832644",
+          "actions": [
+            {
+              "type": 0,
+              "target": "10.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "9.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "qeA4cO76gQ",
+          "title": "TO 213-217(1)",
+          "position": "384.36763913623736,-105.28451477119393,-19.33534741849921",
+          "actions": [
+            {
+              "type": 0,
+              "target": "8.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "10.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "ta7rZ7ByL2",
+          "title": "TO 213-217(2)",
+          "position": "336.5969176038276,-201.85322573882144,74.77242231514055",
+          "actions": [
+            {
+              "type": 0,
+              "target": "8.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "ioPcucAHgu",
+          "title": "TO 3F",
+          "position": "386.3110861652139,-70.73014602328129,-71.56887101403794",
+          "actions": [
+            {
+              "type": 0,
+              "target": "11.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "1ldOzZPjMw",
+          "title": "to 3F pathway",
+          "position": "-359.74448244564775,-15.012164403465482,-172.1299581965374",
+          "actions": [
+            {
+              "type": 0,
+              "target": "3Fpathway.jpeg"
+            }
+          ],
+          "icon": "chevronright.png"
+        },
+        {
+          "hotspotid": "SwrQf0he7V",
+          "title": "to3F2L",
+          "position": "-366.7166225178479,-93.97733059169002,127.78393564720982",
+          "actions": [
+            {
+              "type": 0,
+              "target": "3F2L.jpeg"
+            }
+          ],
+          "icon": "chevronleft.png"
+        }
+      ]
+    },
+    {
+      "panofile": "11.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "ggtyBmze5q",
+          "title": "TO 315-321",
+          "position": "-389.22272831208033,-84.92395349324218,23.151740756234787",
+          "actions": [
+            {
+              "type": 0,
+              "target": "12.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "tOG8sAhqpp",
+          "title": "TO 3F(1)",
+          "position": "190.95141371937572,-291.23634989412335,-195.395672497695",
+          "actions": [
+            {
+              "type": 0,
+              "target": "10.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "LAio15upWH",
+          "title": "TO 4F",
+          "position": "-100.10267017453324,-8.269351014417987,-386.18424445263156",
+          "actions": [
+            {
+              "type": 0,
+              "target": "13.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "12.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "zRQeQzNbeH",
+          "title": "TO 315-321(1)",
+          "position": "388.04272747751793,-90.22465917270274,-26.386744463465888",
+          "actions": [
+            {
+              "type": 0,
+              "target": "11.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "13.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "utOl9PHNGe",
+          "title": "To 415 - 421",
+          "position": "363.05686477514575,-66.64491058122681,-152.521215443171",
+          "actions": [
+            {
+              "type": 0,
+              "target": "14.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "sw0QheVPpT",
+          "title": "To 4th floor (B)",
+          "position": "-364.1366611839114,-161.59245529650667,-24.832452656877518",
+          "actions": [
+            {
+              "type": 0,
+              "target": "MBAcontinue.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "72FZ6OWwRl",
+          "title": "3F(2)",
+          "position": "184.81805690101112,-290.81781736733734,202.26384467963405",
+          "actions": [
+            {
+              "type": 0,
+              "target": "11.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "14.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "aLUiNPXDt2",
+          "title": "415 - 421",
+          "position": "-398.0287628306701,-35.934384400284145,-2.4833055957103447",
+          "actions": [
+            {
+              "type": 0,
+              "target": "15.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "6Xn6HD8FjE",
+          "title": "5th floor stairs ",
+          "position": "-163.78747965610125,-26.74168814496044,-363.6158902030229",
+          "actions": [
+            {
+              "type": 0,
+              "target": "16.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "c3r2FqpbPp",
+          "title": "4/3 stairs ",
+          "position": "63.44163105483015,-181.18204334565257,-350.39135154459035",
+          "actions": [
+            {
+              "type": 0,
+              "target": "13.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "15.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "Wr98VFpcci",
+          "title": "back to stairs ",
+          "position": "382.6078296157651,-103.8350201022242,47.446468328139574",
+          "actions": [
+            {
+              "type": 0,
+              "target": "14.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "16.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "D6QcN1Ni5c",
+          "title": "514 - 520",
+          "position": "382.22379217436327,-101.89482534157825,-53.16931855950429",
+          "actions": [
+            {
+              "type": 0,
+              "target": "17.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "L3K0oh8jdf",
+          "title": "5Fpathway",
+          "position": "-354.37041390405113,-184.12575944781025,-9.385937385738439",
+          "actions": [
+            {
+              "type": 0,
+              "target": "5Fpathway.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "0PrCY8VAzL",
+          "title": "to4F",
+          "position": "239.688742166855,-239.50801046341388,211.87542962851518",
+          "actions": [
+            {
+              "type": 0,
+              "target": "14.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "17.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "wERCmpHklZ",
+          "title": "514",
+          "position": "-396.5545648368925,-40.64038729723161,-17.526005746880397",
+          "actions": [
+            {
+              "type": 0,
+              "target": "18.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "DwSZPTUTpV",
+          "title": "5/4th floor stairs",
+          "position": "37.88072632402107,-203.34542928426814,-341.95377324495996",
+          "actions": [
+            {
+              "type": 0,
+              "target": "16.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "18.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "sHrcUBXuFl",
+          "title": "520",
+          "position": "390.61828422798436,-77.05526410725338,-26.21785125038957",
+          "actions": [
+            {
+              "type": 0,
+              "target": "17.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "maingate.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "uJuUttF1ss",
+          "title": "ENTRANCE(2)",
+          "position": "378.46792534660966,-105.2563404746765,-70.89484230024283",
+          "actions": [
+            {
+              "type": 0,
+              "target": "glassbuildingwalkingpath.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "nWbcHt0hJx",
+          "title": "outsideclg(2)",
+          "position": "-393.98935849885925,-53.644497533087474,39.146755268366036",
+          "actions": [
+            {
+              "type": 0,
+              "target": "outsideclg.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "KtYhG5r2Qm",
+          "title": "to praking lot",
+          "position": "275.87902623124023,-49.88289497271798,-283.9140502017614",
+          "actions": [
+            {
+              "type": 0,
+              "target": "praking.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "glassbuildingwalkingpath.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "6DF8k8FFeF",
+          "title": "Main gate(2)",
+          "position": "-386.9221090962917,-99.8008779136874,2.480958569563104",
+          "actions": [
+            {
+              "type": 0,
+              "target": "maingate.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "ZA2qTu6ZDC",
+          "title": "au(3)",
+          "position": "394.5586755690297,-59.5742082858949,13.827043093109545",
+          "actions": [
+            {
+              "type": 0,
+              "target": "au.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "adminblock.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "xlMyAEeTK5",
+          "title": "To fee counter",
+          "position": "-29.87596331217599,-152.28442410511937,-368.18129915586655",
+          "actions": [
+            {
+              "type": 0,
+              "target": "feecounter.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "C1a65y0mlQ",
+          "title": "base(3)",
+          "position": "378.9690810531347,-59.87318906546873,110.74463906297028",
+          "actions": [
+            {
+              "type": 0,
+              "target": "staircase2.jpeg"
+            }
+          ],
+          "icon": "chevronright.png"
+        },
+        {
+          "hotspotid": "XWJDlwO8Rx",
+          "title": "au",
+          "position": "359.83396193771136,-50.963581538363755,-165.5605070306814",
+          "actions": [
+            {
+              "type": 0,
+              "target": "au.jpeg"
+            }
+          ],
+          "icon": "chevronleft.png"
+        },
+        {
+          "hotspotid": "4HdSO90x5e",
+          "title": "in admin block",
+          "position": "-380.94314157513946,-94.65859746655826,74.92773404905259",
+          "actions": [
+            {
+              "type": 0,
+              "target": "adminblockinside.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "feecounter.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "jNdjut6c0c",
+          "title": "To canteen",
+          "position": "-58.53014379212712,-123.61625726869698,375.2290710484224",
+          "actions": [
+            {
+              "type": 0,
+              "target": "canteenentrance.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "ioYa5wpFf8",
+          "title": "To admin block",
+          "position": "347.90157386854816,-192.07525046327038,-40.32129576163362",
+          "actions": [
+            {
+              "type": 0,
+              "target": "adminblock.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "canteenentrance.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "jrrPmJuVM8",
+          "title": "TO FEE COUNTER(2)",
+          "position": "396.96747677144145,-31.69647855937179,31.6584713696456",
+          "actions": [
+            {
+              "type": 0,
+              "target": "feecounter.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "TtvSNfe8n2",
+          "title": "TO ML LAB(2)",
+          "position": "-10.743346855637613,-89.03823047731514,389.10719190528886",
+          "actions": [
+            {
+              "type": 0,
+              "target": "machineshoplab.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "uupCISmOI7",
+          "title": "canteen",
+          "position": "-55.355920865330575,-105.05048560624144,-380.9575546979934",
+          "actions": [
+            {
+              "type": 0,
+              "target": "outsr.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "machineshoplab.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "Ppnn6ioPrN",
+          "title": "Canteen(2)",
+          "position": "49.255240261113585,-57.72536264566008,392.1044010705645",
+          "actions": [
+            {
+              "type": 0,
+              "target": "canteenentrance.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "PdKwz1X1sf",
+          "title": "BH(2)",
+          "position": "-9.693806202486575,-79.75358739318514,-390.97543754322055",
+          "actions": [
+            {
+              "type": 0,
+              "target": "boyshostel.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "mzREMHLhj8",
+          "title": "toInsideML",
+          "position": "-372.1476303529507,-143.58076414502275,-13.710619689023956",
+          "actions": [
+            {
+              "type": 0,
+              "target": "machinelabinterior.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "boyshostel.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "BdUvZ5eyki",
+          "title": "SH(2)",
+          "position": "-84.2513306032454,-14.948709998742444,390.26436366805297",
+          "actions": [
+            {
+              "type": 0,
+              "target": "seminarhallentrance.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "2SK3NDNIGB",
+          "title": "TO ML",
+          "position": "39.92948136683326,-97.6532993178711,-385.6029088403679",
+          "actions": [
+            {
+              "type": 0,
+              "target": "machineshoplab.jpeg"
+            }
+          ],
+          "icon": "chevronright.png"
+        }
+      ]
+    },
+    {
+      "panofile": "seminarhallentrance.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "gQoaO7Lxar",
+          "title": "To BH",
+          "position": "34.748516034443576,-121.42418483019433,379.1383986888071",
+          "actions": [
+            {
+              "type": 0,
+              "target": "boyshostel.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "KEpnjmJjy1",
+          "title": "TO Base",
+          "position": "25.278578930656344,-34.29985395312278,-396.93979425201786",
+          "actions": [
+            {
+              "type": 0,
+              "target": "staircase2.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "KWeYV9sIy4",
+          "title": "toSeminarhall",
+          "position": "-387.54153388140344,-92.86795303927462,26.38095298944358",
+          "actions": [
+            {
+              "type": 0,
+              "target": "seminarhall.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "staircase2.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "DmcQ5SKtka",
+          "title": "SH ",
+          "position": "333.52315005538605,-138.81423788167388,169.42431975358312",
+          "actions": [
+            {
+              "type": 0,
+              "target": "seminarhallentrance.jpeg"
+            }
+          ],
+          "icon": "chevronright.png"
+        },
+        {
+          "hotspotid": "hxXQUk16CQ",
+          "title": " TO AB(2)",
+          "position": "361.91551485989726,-96.91821361807862,-137.77378755223046",
+          "actions": [
+            {
+              "type": 0,
+              "target": "adminblock.jpeg"
+            }
+          ],
+          "icon": "chevronleft.png"
+        },
+        {
+          "hotspotid": "PQLEY42m79",
+          "title": "To B(1)",
+          "position": "-375.8135401596861,-120.80119265890642,59.7628401761005",
+          "actions": [
+            {
+              "type": 0,
+              "target": "1.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "au.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "Hr7lqPzP2N",
+          "title": "towards hostel(2)",
+          "position": "-6.889913270642685,-182.16861644463157,355.6382423209637",
+          "actions": [
+            {
+              "type": 0,
+              "target": "staircase2.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "5tn27fdBpL",
+          "title": "admin block(3)",
+          "position": "-119.28763866173092,-31.126964180124364,380.2634844760926",
+          "actions": [
+            {
+              "type": 0,
+              "target": "adminblock.jpeg"
+            }
+          ],
+          "icon": "chevronright.png"
+        },
+        {
+          "hotspotid": "mtJTZu7oNs",
+          "title": "parking",
+          "position": "61.097618513991726,-22.36707391266878,-393.6638353121293",
+          "actions": [
+            {
+              "type": 0,
+              "target": "au2.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "au2.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "T1t9OCL8oB",
+          "title": "to ganesh temple",
+          "position": "-198.4921488869211,-131.0642673042321,320.59879951432265",
+          "actions": [
+            {
+              "type": 0,
+              "target": "au.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "5zVWdu4ClW",
+          "title": "walkpath",
+          "position": "80.2592305610849,-55.38020707156289,-387.5192812586346",
+          "actions": [
+            {
+              "type": 0,
+              "target": "glassbuildingwalkingpath.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "Kufqt8C6G4",
+          "title": "parking(2)",
+          "position": "355.7952186117822,-48.418715336509834,-173.99404941899328",
+          "actions": [
+            {
+              "type": 0,
+              "target": "praking.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "outsideclg.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "KfxnA8wZeH",
+          "title": "inside clg",
+          "position": "-391.9117592538192,-75.03621994277152,9.75172412288734",
+          "actions": [
+            {
+              "type": 0,
+              "target": "maingate.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "outsr.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "cv80dlNk3W",
+          "title": "to sproom",
+          "position": "-54.362068119019064,-124.5034397322971,375.557212428659",
+          "actions": [
+            {
+              "type": 0,
+              "target": "sportsroom.jpeg"
+            }
+          ],
+          "icon": "chevronright.png"
+        },
+        {
+          "hotspotid": "rudHwBAuts",
+          "title": "to nandini booth",
+          "position": "-12.366095389302505,-89.13031574212532,388.9953570850205",
+          "actions": [
+            {
+              "type": 0,
+              "target": "naveenshop.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "I7atAQwKIw",
+          "title": "canteenentrance(1)",
+          "position": "-20.750655283185658,-165.85830243881693,-362.36235365707984",
+          "actions": [
+            {
+              "type": 0,
+              "target": "canteenentrance.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "praking.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "wSwjj2lQA3",
+          "title": "to au(2)",
+          "position": "-39.75887695054253,-74.84509543013638,390.4591545193299",
+          "actions": [
+            {
+              "type": 0,
+              "target": "au2.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "F2mcl93Tth",
+          "title": "maingate(2)",
+          "position": "-53.20299732868781,-41.232322929733094,-393.398975400846",
+          "actions": [
+            {
+              "type": 0,
+              "target": "maingate.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "sportsroom.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "hxwApVu8c4",
+          "title": "cantten ",
+          "position": "-39.6715637733513,-133.78601825694014,-374.47717602581",
+          "actions": [
+            {
+              "type": 0,
+              "target": "outsr.jpeg"
+            }
+          ],
+          "icon": "chevronleft.png"
+        },
+        {
+          "hotspotid": "jHShNgMSM2",
+          "title": "Nandini booth",
+          "position": "102.2213036956671,-131.25215394523664,-362.8042233334476",
+          "actions": [
+            {
+              "type": 0,
+              "target": "naveenshop.jpeg"
+            }
+          ],
+          "icon": "chevronright.png"
+        }
+      ]
+    },
+    {
+      "panofile": "naveenshop.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "2jiRoi2ZWY",
+          "title": "to sproom(1)",
+          "position": "386.56033912581233,-97.60216157123932,19.5331079217258",
+          "actions": [
+            {
+              "type": 0,
+              "target": "outsr.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "KHQIXTAPZb",
+          "title": "to mess",
+          "position": "-385.2349770854291,-105.64449613122193,-2.7249888520487",
+          "actions": [
+            {
+              "type": 0,
+              "target": "mess.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "mess.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "TCQKyM13lx",
+          "title": "to naveenshop",
+          "position": "49.52148299382584,-251.4392518527999,-306.1413219274344",
+          "actions": [
+            {
+              "type": 0,
+              "target": "naveenshop.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "1Fdeadend.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "eBGnnIYnZu",
+          "title": "to 1F stair2",
+          "position": "386.8233509130137,-60.582142231891154,-81.02498319612697",
+          "actions": [
+            {
+              "type": 0,
+              "target": "4.jpeg"
+            }
+          ],
+          "icon": "chevronleft.png"
+        },
+        {
+          "hotspotid": "8dpsUFZEfH",
+          "title": "toFF2L",
+          "position": "338.07580633808743,-213.03091376952753,3.6932841514743817",
+          "actions": [
+            {
+              "type": 0,
+              "target": "FF2L.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "2Fppathway.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "oQRzRe5My8",
+          "title": "to2fentrance",
+          "position": "-362.107602180468,-166.5663559935058,19.356191431195178",
+          "actions": [
+            {
+              "type": 0,
+              "target": "3ndfloorentrance.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "sfGPL25Khb",
+          "title": "to 2F stair1",
+          "position": "367.70014172245374,-90.92711544944197,-127.03250817782114",
+          "actions": [
+            {
+              "type": 0,
+              "target": "7.jpeg"
+            }
+          ],
+          "icon": "chevronleft.png"
+        }
+      ]
+    },
+    {
+      "panofile": "2Fstair1.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "DI8aRmhBrP",
+          "title": "1F stair 1",
+          "position": "-360.6814670542517,-154.32421028533864,77.47996647407533",
+          "actions": [
+            {
+              "type": 0,
+              "target": "admissionstair1.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "P46bfl3AwH",
+          "title": "3F stair 1",
+          "position": "-385.58777021619824,-70.06901705295253,-77.30631734513726",
+          "actions": [
+            {
+              "type": 0,
+              "target": "3Fstair1.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "pKoxVkOmQw",
+          "title": "2F entrance",
+          "position": "290.2351848433799,-151.13026402931004,228.92761058154508",
+          "actions": [
+            {
+              "type": 0,
+              "target": "3ndfloorentrance.jpeg"
+            }
+          ],
+          "icon": "chevronright.png"
+        }
+      ]
+    },
+    {
+      "panofile": "3FentraNCE.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "PPdNO5Daan",
+          "title": "3fstairs",
+          "position": "-356.64313537254685,-156.12353425067624,88.8808480965679",
+          "actions": [
+            {
+              "type": 0,
+              "target": "3Fstair1.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "jIcpT7DxtU",
+          "title": "3fpathway",
+          "position": "390.8328876775951,-76.18000183373681,25.40350343073379",
+          "actions": [
+            {
+              "type": 0,
+              "target": "3Fpathway.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "3Fpathway.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "SInOIy5fwH",
+          "title": "3fentrance(1)",
+          "position": "-374.0879766760178,-138.64647195655175,11.408538561768172",
+          "actions": [
+            {
+              "type": 0,
+              "target": "3FentraNCE.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "6Pfq8thfJT",
+          "title": "to 3F stair2",
+          "position": "386.4993942024411,-17.230748327131934,-97.5332740195278",
+          "actions": [
+            {
+              "type": 0,
+              "target": "10.jpeg"
+            }
+          ],
+          "icon": "chevronleft.png"
+        }
+      ]
+    },
+    {
+      "panofile": "3Fstair1.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "wfXcpwvzMT",
+          "title": "2F stair 1",
+          "position": "-359.0511467811769,-151.6814071179196,87.42076355662127",
+          "actions": [
+            {
+              "type": 0,
+              "target": "2Fstair1.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "p8SOLtFmZN",
+          "title": "to 3F entrance",
+          "position": "392.3577347646592,-68.38830792440423,-26.48767795531288",
+          "actions": [
+            {
+              "type": 0,
+              "target": "3FentraNCE.jpeg"
+            }
+          ],
+          "icon": "chevronright.png"
+        },
+        {
+          "hotspotid": "apEdi71prZ",
+          "title": "to 4F stair1",
+          "position": "-390.82077309445646,-61.16286884391216,-54.716554653768085",
+          "actions": [
+            {
+              "type": 0,
+              "target": "mbastair1.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "3ndfloorentrance.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "nKI2Ils9qy",
+          "title": "to3fstairs(1)",
+          "position": "-35.97620252034294,-160.32875360649092,-364.22849985496373",
+          "actions": [
+            {
+              "type": 0,
+              "target": "2Fstair1.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "Gc1KxdJaku",
+          "title": "2fpathway",
+          "position": "0.4109522094428214,-83.99724306418888,390.72057557111884",
+          "actions": [
+            {
+              "type": 0,
+              "target": "2Fppathway.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "4thfloorabup.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "jDHaI3NpcK",
+          "title": "to4fstaris(1)",
+          "position": "312.83100586784235,-186.53740229226696,-163.54023059377613",
+          "actions": [
+            {
+              "type": 0,
+              "target": "mbastair1.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "jZAGFXub33",
+          "title": "disscussionroom",
+          "position": "-381.59742176391444,-117.90371758482587,6.064362427769351",
+          "actions": [
+            {
+              "type": 0,
+              "target": "MBAdiscussionroom.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "6thfloor.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "yPcdAzyFTN",
+          "title": "tomca(2)",
+          "position": "29.870621241452735,-152.52265344526313,-368.0962811797734",
+          "actions": [
+            {
+              "type": 0,
+              "target": "stair1tomca.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "adminblockinside.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "Tj3jF8mfNs",
+          "title": "outadminblock",
+          "position": "-341.0217556661258,-207.21407518239334,17.14628408907235",
+          "actions": [
+            {
+              "type": 0,
+              "target": "adminblock.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "9PY7mrI5kd",
+          "title": "to admissions",
+          "position": "260.83459294235746,-130.73166450101007,272.47688536088657",
+          "actions": [
+            {
+              "type": 0,
+              "target": "admissionstair1.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "ShR8sRd87S",
+          "title": "principle",
+          "position": "214.2569823272092,-169.0739766503577,-291.75520023500445",
+          "actions": [
+            {
+              "type": 0,
+              "target": "principal.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "Gy1cjPCyIA",
+          "title": "floating text",
+          "position": "372.0084298883316,-59.93894570975378,132.3141493959315",
+          "actions": [],
+          "icon": "floating text.png"
+        }
+      ]
+    },
+    {
+      "panofile": "admissions.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "F6eSc66MPw",
+          "title": "to 1F stair1",
+          "position": "290.5691629539452,-188.80730587579765,-198.33723065380173",
+          "actions": [
+            {
+              "type": 0,
+              "target": "admissionstair1.jpeg"
+            }
+          ],
+          "icon": "chevronleft.png"
+        }
+      ]
+    },
+    {
+      "panofile": "MBAcontinue.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "uK0BTpkUWY",
+          "title": "mbadisscussionroom(1)",
+          "position": "25.447482391284996,-124.84787424109042,378.4960587442075",
+          "actions": [
+            {
+              "type": 0,
+              "target": "MBAdiscussionroom.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "CEhscRtgFu",
+          "title": "to 4F stair2",
+          "position": "-347.40383620644957,-197.3528823398845,-1.3588138985944156",
+          "actions": [
+            {
+              "type": 0,
+              "target": "13.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "esQ5Y1qoX3",
+          "title": "to4F2L",
+          "position": "33.037257348027026,-138.15170099684184,-373.17504362971385",
+          "actions": [
+            {
+              "type": 0,
+              "target": "4F2L.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "MBAdiscussionroom.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "rY9Dwca9BR",
+          "title": "mbaentrance",
+          "position": "368.5502378579259,-138.56118808273638,65.09645782406025",
+          "actions": [
+            {
+              "type": 0,
+              "target": "4thfloorabup.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "Dy7cVoYrWU",
+          "title": "mbacontinue",
+          "position": "-341.7425557316408,-206.60192695168547,-10.202161330286097",
+          "actions": [
+            {
+              "type": 0,
+              "target": "MBAcontinue.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "mbastair1.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "CzHpb3TC96",
+          "title": "tomcastairs",
+          "position": "-374.51774821074196,-86.86764002475087,-107.33827251879313",
+          "actions": [
+            {
+              "type": 0,
+              "target": "stair1tomca.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "17YMuL13WN",
+          "title": "to3Fstair1",
+          "position": "-297.4499498681241,-214.52092978974892,157.9485624252805",
+          "actions": [
+            {
+              "type": 0,
+              "target": "3Fstair1.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "SILVU7q2bY",
+          "title": "toMBAentrance",
+          "position": "371.9042760542915,-133.08886352854276,-56.778917517929834",
+          "actions": [
+            {
+              "type": 0,
+              "target": "4thfloorabup.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "MCA5.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "bbpu2mGFPu",
+          "title": "mca pathway",
+          "position": "-385.5815061161929,-102.96312690452193,-9.500920760055694",
+          "actions": [
+            {
+              "type": 0,
+              "target": "5Fpathway.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "DRRkOU8QE6",
+          "title": "stairsto6",
+          "position": "278.2347295702994,-226.5725749956249,-175.03541444036688",
+          "actions": [
+            {
+              "type": 0,
+              "target": "stair1tomca.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "principal.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "8JYzoNCMpI",
+          "title": "admin in",
+          "position": "-379.81706990502363,-124.63879383852786,-3.307242487384914",
+          "actions": [
+            {
+              "type": 0,
+              "target": "adminblockinside.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "yQ1vIIzuO5",
+          "title": "sw",
+          "position": "373.95491252052176,-139.70725319237874,7.07052650286119",
+          "actions": [
+            {
+              "type": 0,
+              "target": "SWO.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "stair1tomca.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "uE3YfkBwOV",
+          "title": "mcablock",
+          "position": "346.7571584393498,-191.80717406710153,-48.12372663489364",
+          "actions": [
+            {
+              "type": 0,
+              "target": "MCA5.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "VX5t3roeAT",
+          "title": "4F stair1",
+          "position": "-320.93566527772356,-191.86334329166033,140.76560066435718",
+          "actions": [
+            {
+              "type": 0,
+              "target": "mbastair1.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "a5k8lLsN93",
+          "title": "5Fstair1",
+          "position": "-384.6051986962936,-67.3125282824405,-85.04944681099842",
+          "actions": [
+            {
+              "type": 0,
+              "target": "6thfloor.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "SWO.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "Sn52YI5AfD",
+          "title": "toprincipal",
+          "position": "385.47442339168606,-101.17243744674417,20.6160182694634",
+          "actions": [
+            {
+              "type": 0,
+              "target": "principal.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "U3bvPA2WEA",
+          "title": "to base1",
+          "position": "-375.367626012055,-135.89987498749224,-6.95491125857254",
+          "actions": [
+            {
+              "type": 0,
+              "target": "1.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "5Fpathway.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "uob6ojECJv",
+          "title": "tomca(2)",
+          "position": "-391.2513665508826,-74.78193082588953,22.645214508253257",
+          "actions": [
+            {
+              "type": 0,
+              "target": "MCA5.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "Tme8FvN85G",
+          "title": "to5Fstair2",
+          "position": "20.486413669778536,-195.78026433549326,-347.1797177209102",
+          "actions": [
+            {
+              "type": 0,
+              "target": "16.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "lbwmELCDLe",
+          "title": "to5F2L",
+          "position": "368.4124292001118,-149.75693528767658,-40.502922870187916",
+          "actions": [
+            {
+              "type": 0,
+              "target": "5F2L.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "3Fstair1pWLg4.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "QLlr5m88sU",
+          "title": "tombastairs(1)",
+          "position": "-369.0675552049678,-132.7048363224457,-76.2542059473554",
+          "actions": [
+            {
+              "type": 0,
+              "target": "mbastair1.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "OpJf85FTnG",
+          "title": "to2fstaris",
+          "position": "-359.64531816406674,-155.26701055334695,79.52879082329794",
+          "actions": [
+            {
+              "type": 0,
+              "target": "2Fstair1.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "sKvgRHN8lK",
+          "title": "3rdfloorentrance",
+          "position": "244.83982180885283,-299.6719137581981,99.18515744474387",
+          "actions": [
+            {
+              "type": 0,
+              "target": "3FentraNCE.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "admissionstair1.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "r9JREdO9c8",
+          "title": "to adminblock inside",
+          "position": "-339.8440229537447,-183.5294024596423,102.24647227121568",
+          "actions": [
+            {
+              "type": 0,
+              "target": "adminblockinside.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "74Y6gIoMFR",
+          "title": "to 2F stair 1",
+          "position": "-395.0962997102034,-48.22269922574105,-28.287125951721254",
+          "actions": [
+            {
+              "type": 0,
+              "target": "2Fstair1.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "1F7l1SmWDf",
+          "title": "to admissions",
+          "position": "338.35738721286947,-210.3633307007439,33.18467631257606",
+          "actions": [
+            {
+              "type": 0,
+              "target": "admissions.jpeg"
+            }
+          ],
+          "icon": "chevronright.png"
+        }
+      ]
+    },
+    {
+      "panofile": "BF2L.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "f90YieIfIA",
+          "title": "toBFstair3",
+          "position": "376.2846403776694,-121.01120607720694,-56.44237255504456",
+          "actions": [
+            {
+              "type": 0,
+              "target": "BFstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "tHU1hrA3Yf",
+          "title": "toExamSectionHub",
+          "position": "-381.78401515824385,-114.57358933703144,18.869837415470986",
+          "actions": [
+            {
+              "type": 0,
+              "target": "examsectionhub.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "BFstair3.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "hRU8M2G8VZ",
+          "title": "toGFstair3",
+          "position": "-51.1515351171309,-176.2330233332401,-354.58258699024293",
+          "actions": [
+            {
+              "type": 0,
+              "target": "GFstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "zybQz0wUdO",
+          "title": "toSeminarhall",
+          "position": "63.82535569747836,-140.55873103623816,368.0041419281176",
+          "actions": [
+            {
+              "type": 0,
+              "target": "seminarhall.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "cEh7jEZhVQ",
+          "title": "toBF2L",
+          "position": "367.2471033590396,-154.28945456191428,-31.55063234828711",
+          "actions": [
+            {
+              "type": 0,
+              "target": "BF2L.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "examsectionhub.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "7t836RQgei",
+          "title": "toBF2L",
+          "position": "383.193018576683,-111.05637971875083,-11.176699557494203",
+          "actions": [
+            {
+              "type": 0,
+              "target": "BF2L.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "sDqil3eLJs",
+          "title": "toMachineLab",
+          "position": "-74.34107536212005,-82.55317089630779,-383.50981168369134",
+          "actions": [
+            {
+              "type": 0,
+              "target": "machinelabinterior.jpeg"
+            }
+          ],
+          "icon": "chevronleft.png"
+        },
+        {
+          "hotspotid": "gWYq9Rp48h",
+          "title": "toGFstair2",
+          "position": "-391.12069920566125,1.3924257669717235,-83.40610386432093",
+          "actions": [
+            {
+              "type": 0,
+              "target": "1.jpeg"
+            }
+          ],
+          "icon": "chevronright.png"
+        }
+      ]
+    },
+    {
+      "panofile": "FF2L.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "OIIExJC98m",
+          "title": "toFFstair3",
+          "position": "-378.2156908193335,-128.14544408332534,7.761568428742716",
+          "actions": [
+            {
+              "type": 0,
+              "target": "FFstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "srRwEyD4wN",
+          "title": "toFFstair2",
+          "position": "389.38989722619806,-87.33238633179397,11.512659457466796",
+          "actions": [
+            {
+              "type": 0,
+              "target": "4.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "FFLEhub.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "orc1qMOkAB",
+          "title": "toFFmidpointhub",
+          "position": "24.593458629464443,-162.7934486044622,363.5899739358587",
+          "actions": [
+            {
+              "type": 0,
+              "target": "FFmidpoint.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "FFmidpoint.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "4KA2F55lSo",
+          "title": "toFFstair3",
+          "position": "374.17022823221845,-139.97530601237293,2.0455738812544464",
+          "actions": [
+            {
+              "type": 0,
+              "target": "FFstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "QNQjAbn3dq",
+          "title": "toFFLEhub",
+          "position": "-247.0448632663303,-313.6575131261866,9.294537157710376",
+          "actions": [
+            {
+              "type": 0,
+              "target": "FFLEhub.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "EQJfUOxKtB",
+          "title": "toVYOMlab",
+          "position": "-384.5308215502757,-98.35815230998766,45.472379741768535",
+          "actions": [
+            {
+              "type": 0,
+              "target": "VYOMlab1.jpeg"
+            }
+          ],
+          "icon": "arrowleft.png"
+        }
+      ]
+    },
+    {
+      "panofile": "FFstair3.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "uZDChlHJlV",
+          "title": "toGFstair3",
+          "position": "7.933049777039296,-158.84568782981685,-366.33640388787234",
+          "actions": [
+            {
+              "type": 0,
+              "target": "GFstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "4U2qsRJdIT",
+          "title": "toSFstair3",
+          "position": "-196.76001904255733,-114.84074784119261,-327.9846388634788",
+          "actions": [
+            {
+              "type": 0,
+              "target": "2Fstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "FdsIVhByUo",
+          "title": "toFFmidpoint",
+          "position": "-367.03390248695155,-158.1789436749428,1.7542127445767057",
+          "actions": [
+            {
+              "type": 0,
+              "target": "FFmidpoint.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "ZJNvXqkK6g",
+          "title": "toFF2L",
+          "position": "373.46556853842725,-137.38283765864446,-32.87855058120897",
+          "actions": [
+            {
+              "type": 0,
+              "target": "FF2L.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "GF2L.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "nCFbJXNbh4",
+          "title": "toGFstair2",
+          "position": "377.29666311079814,-126.42029603346982,39.18041577823325",
+          "actions": [
+            {
+              "type": 0,
+              "target": "1.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "kqChR7qAYR",
+          "title": "toGFstair3",
+          "position": "-363.3509861668088,-164.87439572354845,10.973647334349732",
+          "actions": [
+            {
+              "type": 0,
+              "target": "GFstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "GFLEhub.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "cYilpZwrUv",
+          "title": "toNSOJhub",
+          "position": "-5.928793669413695,-157.5315631874814,367.0741990549009",
+          "actions": [
+            {
+              "type": 0,
+              "target": "NSOJpoint.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "GFstair3.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "GLtiNpmeSR",
+          "title": "toGF2L",
+          "position": "352.3611088456764,-187.84967606287094,7.572479716143867",
+          "actions": [
+            {
+              "type": 0,
+              "target": "GF2L.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "hWs8lKsPga",
+          "title": "toLibrary",
+          "position": "64.29437960476263,-149.7402788108499,-364.5598397814118",
+          "actions": [
+            {
+              "type": 0,
+              "target": "BFstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "GHTS1P8KPG",
+          "title": "toFFstair3",
+          "position": "-73.74233581759229,-148.7137105654778,-363.50925640931916",
+          "actions": [
+            {
+              "type": 0,
+              "target": "FFstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "95MPqxXEsI",
+          "title": "toNSOJhub",
+          "position": "-360.004516879463,-170.76714270126098,22.751592915128438",
+          "actions": [
+            {
+              "type": 0,
+              "target": "NSOJpoint.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "machinelabinterior.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "BRVMmE1HcI",
+          "title": "toExamsectionHub",
+          "position": "15.100064334429115,-3.0841663377276554,398.9334324277761",
+          "actions": [
+            {
+              "type": 0,
+              "target": "examsectionhub.jpeg"
+            }
+          ],
+          "icon": "chevronright.png"
+        },
+        {
+          "hotspotid": "31Mmlih4Il",
+          "title": "toBacksidecllg",
+          "position": "-398.09750959585256,-30.56961297188935,-11.191986580649905",
+          "actions": [
+            {
+              "type": 0,
+              "target": "machineshoplab.jpeg"
+            }
+          ],
+          "icon": "chevronright.png"
+        }
+      ]
+    },
+    {
+      "panofile": "NSOJpoint.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "UNNtyE6pIT",
+          "title": "toGFstair3",
+          "position": "379.86335660446923,-118.84214026974185,-34.31275462522053",
+          "actions": [
+            {
+              "type": 0,
+              "target": "GFstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "PelRtQ5BXr",
+          "title": "toGFLEhub",
+          "position": "-381.90230575700247,-114.0519152525442,19.371496701582394",
+          "actions": [
+            {
+              "type": 0,
+              "target": "GFLEhub.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "seminarhall.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "TWcmSyyaXL",
+          "title": "toBFstair3",
+          "position": "-374.0036089749901,-138.56012237702217,13.439212256321724",
+          "actions": [
+            {
+              "type": 0,
+              "target": "BFstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "3GvnnfSB0n",
+          "title": "toSeminarhallEntrance",
+          "position": "380.38427014459484,-118.51944893150167,-24.934932739621637",
+          "actions": [
+            {
+              "type": 0,
+              "target": "seminarhallentrance.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "VYOMlab1.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "ewf1F7Pv2F",
+          "title": "toffmidhub",
+          "position": "154.4238254375731,-162.78533424875428,-330.3207324784521",
+          "actions": [
+            {
+              "type": 0,
+              "target": "FFmidpoint.jpeg"
+            }
+          ],
+          "icon": "arrowright.png"
+        },
+        {
+          "hotspotid": "hlxAqPjo7c",
+          "title": "tofflehub(1)",
+          "position": "123.6927458436316,-161.79753386492956,-343.3263920837046",
+          "actions": [
+            {
+              "type": 0,
+              "target": "FFLEhub.jpeg"
+            }
+          ],
+          "icon": "arrowleft.png"
+        },
+        {
+          "hotspotid": "DLq0DWt6SH",
+          "title": "toVYOMLAB(1)",
+          "position": "-297.89868452617145,-156.9047817523238,215.5440119583572",
+          "actions": [
+            {
+              "type": 0,
+              "target": "VYOMlab2.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "VYOMlab2.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "r4kj1h1Czr",
+          "title": "rovyomlab(2)",
+          "position": "254.91934037525962,-143.41371095343152,271.8079454716367",
+          "actions": [
+            {
+              "type": 0,
+              "target": "VYOMlab1.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "2F2L.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "PF89MNQSZD",
+          "title": "to2Fstair2",
+          "position": "1.2587577016756741,-124.25851614101981,-380.0928601976625",
+          "actions": [
+            {
+              "type": 0,
+              "target": "7.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "2oFbaGmvko",
+          "title": "to2Fstair3",
+          "position": "51.32761332999402,-199.43071352444773,341.9253673170005",
+          "actions": [
+            {
+              "type": 0,
+              "target": "2Fstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "2FLEhub.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "boDBQw3OB9",
+          "title": "to2Fmidpoint",
+          "position": "-24.25296994262855,-142.23520078269144,372.0828029824536",
+          "actions": [
+            {
+              "type": 0,
+              "target": "2Fmidpoint.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "2Fstair3.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "piGQrjUbwx",
+          "title": "to2F2L",
+          "position": "-17.158374248402016,-185.79661370411426,-352.98201494512114",
+          "actions": [
+            {
+              "type": 0,
+              "target": "2F2L.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "mBRon9Vvu2",
+          "title": "to1Fstair3",
+          "position": "-299.9467330793645,-247.82820236614373,-89.85453853183606",
+          "actions": [
+            {
+              "type": 0,
+              "target": "FFstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "fvvVVCMiqj",
+          "title": "to3Fstair3",
+          "position": "-336.30776170566156,-125.75651774565914,174.68573979704524",
+          "actions": [
+            {
+              "type": 0,
+              "target": "3Fstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "6HyZh2uWmo",
+          "title": "to2Fmidpoint",
+          "position": "-25.21703693486292,-180.80907586511145,355.330219447724",
+          "actions": [
+            {
+              "type": 0,
+              "target": "2Fmidpoint.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "3F2L.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "dnF9P83Wk0",
+          "title": "to3Fstair2",
+          "position": "387.2553738712454,-92.04573502474435,36.10017307992764",
+          "actions": [
+            {
+              "type": 0,
+              "target": "10.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "dpNXPrll3o",
+          "title": "to3Fstair3",
+          "position": "-369.47727812268977,-152.7803916378045,2.78852381928846",
+          "actions": [
+            {
+              "type": 0,
+              "target": "3Fstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "3FLEhub.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "gzlDtBzV2u",
+          "title": "to3Fmidpoint",
+          "position": "17.9263287878436,-169.10433541358907,361.0148437983482",
+          "actions": [
+            {
+              "type": 0,
+              "target": "3Fmidpoint.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "3Fmidpoint.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "gh5efNEtue",
+          "title": "to3Fstair3",
+          "position": "-6.120995562816636,-174.8922553693795,359.0451026063171",
+          "actions": [
+            {
+              "type": 0,
+              "target": "3Fstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "jaJdoKhVll",
+          "title": "to3FLEhub",
+          "position": "19.372266699989034,-176.1868784986362,-357.7079071823226",
+          "actions": [
+            {
+              "type": 0,
+              "target": "3FLEhub.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "3Fstair3.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "mnXHHv4c7e",
+          "title": "to2Fstair3",
+          "position": "-296.2650523026764,-241.14022381009465,-116.22184669547158",
+          "actions": [
+            {
+              "type": 0,
+              "target": "2Fstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "XESPJMbomR",
+          "title": "to4Fstair3",
+          "position": "-350.2205395411187,-131.91076142327927,138.65999306693834",
+          "actions": [
+            {
+              "type": 0,
+              "target": "4Fstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "Mr5yo938Xz",
+          "title": "to3Fmidpoint",
+          "position": "15.420304483970671,-211.08529497424303,338.7093143595538",
+          "actions": [
+            {
+              "type": 0,
+              "target": "3Fmidpoint.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "DzB4qR2tfw",
+          "title": "to3F2L",
+          "position": "-18.687085681382946,-171.92815000511504,-359.68145014783886",
+          "actions": [
+            {
+              "type": 0,
+              "target": "3F2L.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "4FLEhub.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "lDlP0tzAD7",
+          "title": "to4Fmidpoint",
+          "position": "7.8392211514207935,-164.1126783981926,363.88900048450677",
+          "actions": [
+            {
+              "type": 0,
+              "target": "4Fmidpoint.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "4Fmidpoint.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "rgTjfF7OpM",
+          "title": "to4Fstair3",
+          "position": "-371.1590800466099,-147.41055656224455,6.830360953573834",
+          "actions": [
+            {
+              "type": 0,
+              "target": "4Fstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "OI68A5mtt3",
+          "title": "to4FLEhub",
+          "position": "337.6636738102702,-211.52234370166403,30.928849417623972",
+          "actions": [
+            {
+              "type": 0,
+              "target": "4FLEhub.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "4Fstair3.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "Xu4aXgTQom",
+          "title": "to3Fstair3",
+          "position": "56.050887427289794,-287.1992379497437,-272.23538209016476",
+          "actions": [
+            {
+              "type": 0,
+              "target": "3Fstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "zziGGDXA4a",
+          "title": "to5Fstair3",
+          "position": "-211.9956974406787,-126.17941561732137,-314.0085180497014",
+          "actions": [
+            {
+              "type": 0,
+              "target": "5Fstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "JkkmZxdItf",
+          "title": "to4F2L",
+          "position": "345.9692061123478,-196.81551834168482,-34.300990087189376",
+          "actions": [
+            {
+              "type": 0,
+              "target": "4F2L.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "9WxqINx5dt",
+          "title": "to4Fmidpoint",
+          "position": "-358.76598795901896,-175.16057583483808,8.729901181461324",
+          "actions": [
+            {
+              "type": 0,
+              "target": "4Fmidpoint.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "5F2L.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "uJXJsXilIm",
+          "title": "to5Fstair2",
+          "position": "379.39410967675246,-121.11725564298402,30.841847658905863",
+          "actions": [
+            {
+              "type": 0,
+              "target": "5Fpathway.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "peB7O5n9P7",
+          "title": "to5Fstair3",
+          "position": "-361.87217967062577,-166.5123229564831,24.526687037473472",
+          "actions": [
+            {
+              "type": 0,
+              "target": "5Fstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "5FLEhub.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "XLF5wzQD4d",
+          "title": "to5Fmidpoint",
+          "position": "-19.821073577857852,-200.54239641833934,344.5619780077436",
+          "actions": [
+            {
+              "type": 0,
+              "target": "5Fmidpoint.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "5Fmidpoint.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "16BArUdL9U",
+          "title": "to5FLEhub",
+          "position": "-4.616818992475681,-154.1843547814562,-368.730604772906",
+          "actions": [
+            {
+              "type": 0,
+              "target": "5FLEhub.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "73ZWSCNM8C",
+          "title": "to5Fstair3",
+          "position": "-2.89735168697255,-194.4805818819979,348.9120295819062",
+          "actions": [
+            {
+              "type": 0,
+              "target": "5Fstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "2Fmidpoint.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "bMiPVgWOBQ",
+          "title": "to2Fstair3",
+          "position": "40.20463420165353,-176.83516408134892,356.1211504365795",
+          "actions": [
+            {
+              "type": 0,
+              "target": "2Fstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "0xxs5G4sDS",
+          "title": "to2FLEhub",
+          "position": "25.99481222301659,-151.1482777844643,-368.76964749223083",
+          "actions": [
+            {
+              "type": 0,
+              "target": "2FLEhub.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "4F2L.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "QJFDRCrj5B",
+          "title": "to4Fstair3",
+          "position": "85.09596691660197,-171.5903607906466,350.25551528008003",
+          "actions": [
+            {
+              "type": 0,
+              "target": "4Fstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "0vlil10xSB",
+          "title": "to4Fstair2",
+          "position": "-38.71859488712337,-228.44426303121497,-325.44323068681814",
+          "actions": [
+            {
+              "type": 0,
+              "target": "MBAcontinue.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    },
+    {
+      "panofile": "5Fstair3.jpeg",
+      "hotspots": [
+        {
+          "hotspotid": "cLYq6aG1HJ",
+          "title": "to4Fstair3",
+          "position": "-317.3470049322446,-242.63354014768777,-3.872484899159181",
+          "actions": [
+            {
+              "type": 0,
+              "target": "4Fstair3.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "d4pxct55jS",
+          "title": "to5Fmidpoint",
+          "position": "-18.821017460579334,-197.46352597074343,346.3254941989195",
+          "actions": [
+            {
+              "type": 0,
+              "target": "5Fmidpoint.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        },
+        {
+          "hotspotid": "zCCMYWOzzX",
+          "title": "to5F2L",
+          "position": "24.570366519639613,-181.8743892510631,-354.84318658016076",
+          "actions": [
+            {
+              "type": 0,
+              "target": "5F2L.jpeg"
+            }
+          ],
+          "icon": "chevronforward.png"
+        }
+      ]
+    }
+  ],
+  "threedeescenes": [],
+  "settings": {
+    "loadingtext": "Loading...",
+    "firstpanorama": "outsideclg.jpeg",
+    "description": "New 3Sixty Virtual Tour Project",
+    "controls": 0,
+    "panolistmenu": 0
+  }
+}
