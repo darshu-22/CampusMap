@@ -5,7 +5,6 @@ import { PhotoViewer } from '../components/PhotoViewer';
 import { RouteThumbnails } from '../components/RouteThumbnails';
 import { ArrivalMessage } from '../components/ArrivalMessage';
 import { DevDebugPanel } from '../components/DevDebugPanel';
-import { PanoramaAdminList } from '../components/PanoramaAdminList';
 import { RouteOptions } from '../components/RouteOptions';
 import { getPanoramaNode } from '../utils/panorama';
 import type { RouteStep } from '../data/routes';
@@ -187,28 +186,6 @@ export const Home: React.FC<HomeProps> = ({
         />
       </div>
 
-      {/* Developer/Admin Location Identifier Manager */}
-      <div className="w-full">
-        <PanoramaAdminList
-          onSelectPano={(nodeId: string) => {
-            setFromId(nodeId);
-            const freeRoamRoute = [
-              {
-                location: getPanoramaNode(nodeId)?.displayName || nodeId,
-                image: getPanoramaNode(nodeId)?.imagePath || `/campus/${nodeId}`,
-                instruction: `Exploring ${getPanoramaNode(nodeId)?.displayName || nodeId}`,
-                direction: 'none' as const
-              }
-            ];
-            setRouteSteps(freeRoamRoute);
-            setActivePath([nodeId]);
-            setRouteOptions([]);
-            setCurrentStepIndex(0);
-            setHasSearched(true);
-            setError(null);
-          }}
-        />
-      </div>
 
       {/* Main Content Area */}
       <div className="w-full">

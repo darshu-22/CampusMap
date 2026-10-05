@@ -1,8 +1,9 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Header, type TabType } from './components/Header';
 import { Home } from './pages/Home';
 import { View360Page } from './pages/View360Page';
 import { NetworkMapPage } from './pages/NetworkMapPage';
+import { AdminPage } from './pages/AdminPage';
 import type { RouteStep } from './data/routes';
 
 export interface ActiveRouteInfo {
@@ -14,8 +15,24 @@ export interface ActiveRouteInfo {
 }
 
 function App() {
+  const [currentPath, setCurrentPath] = useState(() => window.location.pathname);
   const [activeTab, setActiveTab] = useState<TabType>('home');
   const [activeRoute, setActiveRoute] = useState<ActiveRouteInfo | null>(null);
+
+  useEffect(() => {
+    const handlePopState = () => {
+      setCurrentPath(window.location.pathname);
+    };
+    window.addEventListener('popstate', handlePopState);
+    return () => window.removeEventListener('popstate', handlePopState);
+  }, []);
+
+  const normalizedPath = currentPath.replace(/\/$/, '').toLowerCase();
+  const isAdminRoute = normalizedPath === '/admin';
+
+  if (isAdminRoute) {
+    return <AdminPage />;
+  }
 
   const handleRouteCalculated = (route: ActiveRouteInfo | null) => {
     setActiveRoute(route);
